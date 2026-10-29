@@ -18,7 +18,7 @@ relacionados em tabelas diferentes. Antes de agregar valores, é
 importante compreender a granularidade dos dados.
 
 ## Arquivos
-- `left_join_e_exercicios.sql`: exercícios e consultas com LEFT JOIN.
+- `join_exercicios.sql`: exercícios e consultas com LEFT JOIN.
 
 **Banco:** SQLite (DBeaver)
 
