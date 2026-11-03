@@ -7,9 +7,11 @@ consultas escritas por mim, com a pergunta, o raciocínio e o tema praticado.
 
 ## Temas
 
+> **Conceitos de Modelagem Aplicados:** Além das consultas, os estudos abordam a estrutura dos bancos relacionais (MER) — compreendendo a separação em tabelas especializadas, relacionamentos por **Chaves Primárias (PK)** e **Estrangeiras (FK)**, e a **cardinalidade das tabelas (1:1, 1:N, N:N)** para a correta união dos dados via `JOINs`.
+
 | Pasta | O que pratiquei |
 |---|---|
-| [01_basico](01_basico) | Agrupamentos, operadores de comparação, lógicos e de intervalo, CASE |
+| [01_basico](01_basico) | Agrupamentos, operadores de comparação, lógicos e de intervalo |
 | [02_joins](02_joins) | INNER JOIN, LEFT JOIN, montagem de grande tabela |
 | [03_subqueries](03_subqueries) | Subqueries no SELECT, WHERE e FROM |
 | [04_colunas_e_funcoes](04_colunas_e_funcoes) | Novas colunas, operações e funções de coluna |
