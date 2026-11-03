@@ -25,7 +25,7 @@ palavras, e cada arquivo traz o raciocínio nos comentários.
 | **FULL OUTER JOIN** | Todas as linhas das duas tabelas, com NULL onde não há correspondência | Para comparar duas tabelas e achar o que existe só em uma delas |
 
 > No SQLite, RIGHT e FULL JOIN só existem em versões recentes (3.39 ou mais).
-> Se o DBeaver acusar erro, confira a versão do driver.
+
 
 ## Tamanho do resultado
 
